@@ -33,8 +33,6 @@ for learning & implementing new web technologies and standards. I’m currently 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rezaulislam54)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaulislam54)](https://github.com/anuraghazra/github-readme-stats)
-
-<---<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rezaulislam54&show_icons=true&theme=gotham" alt="rezaulislam54" />--->
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rezaulislam54&show_icons=true)  
 
